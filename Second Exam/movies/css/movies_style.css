@@ -1,0 +1,22 @@
+body{
+    background-color: #fde6e0;
+}
+.movie{
+    border: 2px black solid;
+    box-sizing: border-box;
+}
+.line{
+    background-color: black;
+    height: 2px;
+    width: 100%;
+}
+.movieBody   ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style: none;
+    columns: 2; 
+     -webkit-columns: 2;
+     -moz-columns: 2;
+    
+}
